@@ -1,6 +1,6 @@
-# my_stateless
+# flutter_stateless_app
 
-A new Flutter project.
+A new Flutter project. This is app is develpoed for better understanding of statelesswidgets in flutter app. 
 
 ## Getting Started
 
